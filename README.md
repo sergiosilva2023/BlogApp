@@ -1,2 +1,2 @@
 # BlogApp
-Novo curso Node.js e JavaScript
+Curso Node.js e JavaScript
